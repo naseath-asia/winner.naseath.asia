@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+
+# Enable URL rewriting
+RewriteEngine On
+
+## Redirect from non-www to www
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+</IfModule>
