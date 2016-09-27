@@ -1,0 +1,69 @@
+[Mon Sep 26 17:46:24.586123 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP Warning:  file(name.txt): failed to open stream: No such file or directory in /var/www/winner/random.php on line 4, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.586176 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP Stack trace:, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.586188 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.586194 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP   2. file() /var/www/winner/random.php:4, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.586689 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP Warning:  array_rand() expects parameter 1 to be array, boolean given in /var/www/winner/random.php on line 6, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.586697 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP Stack trace:, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.586701 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.586704 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP   2. array_rand() /var/www/winner/random.php:6, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.587449 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP Warning:  file_get_contents(name.txt): failed to open stream: No such file or directory in /var/www/winner/random.php on line 16, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.587455 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP Stack trace:, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.587460 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:46:24.587464 2016] [:error] [pid 24454] [client 127.0.0.1:35095] PHP   2. file_get_contents() /var/www/winner/random.php:16, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840191 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP Warning:  file(name.txt): failed to open stream: No such file or directory in /var/www/winner/random.php on line 4, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840239 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP Stack trace:, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840245 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840249 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP   2. file() /var/www/winner/random.php:4, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840293 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP Warning:  array_rand() expects parameter 1 to be array, boolean given in /var/www/winner/random.php on line 6, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840296 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP Stack trace:, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840300 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840303 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP   2. array_rand() /var/www/winner/random.php:6, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840329 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP Warning:  file_get_contents(name.txt): failed to open stream: No such file or directory in /var/www/winner/random.php on line 16, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840333 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP Stack trace:, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840336 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:00.840346 2016] [:error] [pid 24455] [client 127.0.0.1:35097] PHP   2. file_get_contents() /var/www/winner/random.php:16, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167387 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP Warning:  file(name.txt): failed to open stream: No such file or directory in /var/www/winner/random.php on line 4, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167421 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP Stack trace:, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167429 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167434 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP   2. file() /var/www/winner/random.php:4, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167487 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP Warning:  array_rand() expects parameter 1 to be array, boolean given in /var/www/winner/random.php on line 6, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167492 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP Stack trace:, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167496 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167501 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP   2. array_rand() /var/www/winner/random.php:6, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167535 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP Warning:  file_get_contents(name.txt): failed to open stream: No such file or directory in /var/www/winner/random.php on line 16, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167552 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP Stack trace:, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167571 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:47:08.167576 2016] [:error] [pid 24456] [client 127.0.0.1:35098] PHP   2. file_get_contents() /var/www/winner/random.php:16, referer: http://rand.naseath.asia/random.php
+[Mon Sep 26 17:50:19.523694 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP Warning:  file(name.txt): failed to open stream: No such file or directory in /var/www/winner/random.php on line 4, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523726 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP Stack trace:, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523736 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523742 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP   2. file() /var/www/winner/random.php:4, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523796 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP Warning:  array_rand() expects parameter 1 to be array, boolean given in /var/www/winner/random.php on line 6, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523802 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP Stack trace:, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523807 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523811 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP   2. array_rand() /var/www/winner/random.php:6, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523848 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP Warning:  file_get_contents(name.txt): failed to open stream: No such file or directory in /var/www/winner/random.php on line 16, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523861 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP Stack trace:, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523865 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP   1. {main}() /var/www/winner/random.php:0, referer: http://winner.wehost.asia/
+[Mon Sep 26 17:50:19.523869 2016] [:error] [pid 25031] [client 127.0.0.1:35129] PHP   2. file_get_contents() /var/www/winner/random.php:16, referer: http://winner.wehost.asia/
+[Mon Sep 26 22:10:43.606575 2016] [:error] [pid 24594] [client 127.0.0.1:36618] script '/var/www/winner/timer2.php' not found or unable to stat
+[Mon Sep 26 22:11:00.332444 2016] [:error] [pid 25030] [client 127.0.0.1:36624] PHP Fatal error:  Class 'EvTimer' not found in /var/www/winner/time2.php on line 3
+[Mon Sep 26 22:11:00.332475 2016] [:error] [pid 25030] [client 127.0.0.1:36624] PHP Stack trace:
+[Mon Sep 26 22:11:00.332484 2016] [:error] [pid 25030] [client 127.0.0.1:36624] PHP   1. {main}() /var/www/winner/time2.php:0
+[Mon Sep 26 23:10:56.878144 2016] [:error] [pid 24455] [client 127.0.0.1:37954] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /var/www/winner/jsrandom.php on line 3
+[Mon Sep 26 23:15:20.474255 2016] [:error] [pid 25031] [client 127.0.0.1:38022] script '/var/www/winner/jsrandom.php' not found or unable to stat
+[Mon Sep 26 23:37:35.131762 2016] [:error] [pid 24453] [client 127.0.0.1:38553] PHP Warning:  file_get_contents(flatFileDB.txt): failed to open stream: No such file or directory in /var/www/winner/jsrandom.php on line 2
+[Mon Sep 26 23:37:35.131802 2016] [:error] [pid 24453] [client 127.0.0.1:38553] PHP Stack trace:
+[Mon Sep 26 23:37:35.131813 2016] [:error] [pid 24453] [client 127.0.0.1:38553] PHP   1. {main}() /var/www/winner/jsrandom.php:0
+[Mon Sep 26 23:37:35.131818 2016] [:error] [pid 24453] [client 127.0.0.1:38553] PHP   2. file_get_contents() /var/www/winner/jsrandom.php:2
+[Tue Sep 27 11:51:58.264030 2016] [core:alert] [pid 16157] [client 127.0.0.1:52834] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Sep 27 11:52:03.862272 2016] [core:alert] [pid 16158] [client 127.0.0.1:52835] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Sep 27 11:52:09.023137 2016] [core:alert] [pid 16159] [client 127.0.0.1:52843] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Sep 27 11:54:43.423867 2016] [core:alert] [pid 16296] [client 127.0.0.1:52862] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Sep 27 11:54:48.545955 2016] [core:alert] [pid 16297] [client 127.0.0.1:52865] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Sep 27 11:54:56.908734 2016] [core:alert] [pid 16300] [client 127.0.0.1:52866] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Sep 27 12:00:17.959918 2016] [core:alert] [pid 16297] [client 127.0.0.1:52989] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Sep 27 12:00:18.109081 2016] [core:alert] [pid 16298] [client 127.0.0.1:52990] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Sep 27 12:00:18.258253 2016] [core:alert] [pid 16299] [client 127.0.0.1:52991] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Sep 27 12:02:24.751111 2016] [core:alert] [pid 16296] [client 127.0.0.1:53003] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Sep 27 14:33:45.261890 2016] [core:alert] [pid 19808] [client 127.0.0.1:53605] /var/www/winner/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
