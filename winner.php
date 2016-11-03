@@ -9,7 +9,7 @@
 echo file_get_contents( "name.txt"  );
 ?>
 	</td>
-	<td valign="top" align="left"><a href="http://rand.naseath.asia/random.php"><h2>FIND AGAIN</a>
+	<td valign="top" align="left"><a href="http://winner.naseath.asia/winner.php"><h2>FIND AGAIN</a>
 	<br/><br/>
 		<?php
 $lines = file('name.txt');
@@ -19,6 +19,6 @@ echo $lines[array_rand($lines)];
 </h2>
 	</td>
 	</tr>
-	<tr><td valign="top" align="left"><a href="http://rand.naseath.asia">BACK</a></td></tr>
+	<tr><td valign="top" align="left"><a href="http://winner.naseath.asia">BACK</a></td></tr>
 </table>
 </html>

@@ -9,7 +9,7 @@
 echo file_get_contents( "name.txt"  );
 ?>
 	</td>
-	<td valign="top" align="left"><a href="http://rand.naseath.asia/random.php"><h2>FIND</a>
+	<td valign="top" align="left"><a href="http://winner.naseath.asia/winner.php"><h2>FIND</a>
 	<br/><br/>
 		-------------
 </h2>
